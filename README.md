@@ -1,2 +1,2 @@
-# sqlite
-aula sobre SQL com o professor Alex Bessa
+# SQL com SQLite
+
